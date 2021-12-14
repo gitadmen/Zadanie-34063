@@ -25,12 +25,13 @@
 
 }
 
-.circle {
+/* circle {
   width:100px;
   height: 100px;
   border-radius: 50px;
+  background-color: white
   
-}
+} */
 
 .item:nth-of-type(1) {
   background-color: red;
@@ -68,38 +69,65 @@
   background-color: fuchsia;
 }
 
-.circle:nth-of-type(1) {
+.circle1 {
   background-color: white; 
+  width:100px;
+  height: 100px;
+  border-radius: 50px;
 }
 
-.circle:nth-of-type(2) {
-  background-color: lightpink; 
+.circle2 {
+  background-color: lightpink;  
+  width:100px;
+  height: 100px;
+  border-radius: 50px;
 }
 
-.circle:nth-of-type(3) {
-  background-color: tomato; 
+.circle3 {
+  background-color: tomato;  
+  width:100px;
+  height: 100px;
+  border-radius: 50px;
 }
 
-.circle:nth-of-type(4) {
-  background-color: violet; 
+.circle4 {
+  background-color: violet;  
+  width:100px;
+  height: 100px;
+  border-radius: 50px;
 }
 
-.circle:nth-of-type(5) {
-  background-color: rgb(255, 0, 0); 
+.circle5 {
+  background-color: rgb(255, 0, 0);  
+  width:100px;
+  height: 100px;
+  border-radius: 50px;
 }
 
-.circle:nth-of-type(6) {
-  background-color: aqua; 
+.circle6 {
+  background-color: aqua;  
+  width:100px;
+  height: 100px;
+  border-radius: 50px;
 }
 
-.circle:nth-of-type(7) {
-  background-color: darkred; 
+.circle7 {
+  background-color: darkred;  
+  width:100px;
+  height: 100px;
+  border-radius: 50px; 
 }
 
-.circle:nth-of-type(8) {
-  background-color: greenyellow; 
+.circle8 {
+  background-color: greenyellow;  
+  width:100px;
+  height: 100px;
+  border-radius: 50px; 
 }
 
-.circle:nth-of-type(9) {
-  background-color: blue; 
+.circle9 {
+  background-color: blue;   
+  width:100px;
+  height: 100px;
+  border-radius: 50px;
 }
